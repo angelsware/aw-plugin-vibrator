@@ -1,5 +1,6 @@
 package com.angelsware.vibrator;
 
+import android.content.Context;
 import android.os.VibrationEffect;
 import android.os.Vibrator;
 
