@@ -8,7 +8,7 @@ Add the **plugins** section and the **VIBRATE** permission for Android to the **
 
 ```
 plugins:
-	repo: https://github.com/angelsware/aw-plugin-vibrator.git
+- repo: https://github.com/angelsware/aw-plugin-vibrator.git
 
 preferences:
 	android:
